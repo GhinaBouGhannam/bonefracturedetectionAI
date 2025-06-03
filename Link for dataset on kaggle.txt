@@ -1,0 +1,2 @@
+Link for dataset cause cant upload on Moodle max file size 100mb
+https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images/data 
